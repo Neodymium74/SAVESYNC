@@ -1,0 +1,13 @@
+{
+  "itemGroup.savesync": "Example Mod Tab",
+  "block.savesync.example_block": "Example Block",
+  "item.savesync.example_item": "Example Item",
+
+  "savesync.configuration.title": "SaveSync Configs",
+  "savesync.configuration.section.savesync.common.toml": "SaveSync Configs",
+  "savesync.configuration.section.savesync.common.toml.title": "SaveSync Configs",
+  "savesync.configuration.items": "Item List",
+  "savesync.configuration.logDirtBlock": "Log Dirt Block",
+  "savesync.configuration.magicNumberIntroduction": "Magic Number Text",
+  "savesync.configuration.magicNumber": "Magic Number"
+}
